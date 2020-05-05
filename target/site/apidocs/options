@@ -1,0 +1,25 @@
+-classpath
+'C:/Users/FAUSTINO/.m2/repository/org/jeasy/easy-states/2.0.0/easy-states-2.0.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/FAUSTINO/Desktop/OTA MCC/easy-states/src/main/java;C:/Users/FAUSTINO/Desktop/OTA MCC/easy-states/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/FAUSTINO/Desktop/OTA MCC/easy-states/target/site/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'Easy States 2.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/FAUSTINO/Desktop/OTA MCC/easy-states/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Easy States 2.0.1-SNAPSHOT API'
